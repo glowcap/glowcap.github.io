@@ -1,0 +1,353 @@
+{
+  "projects": [
+    {
+      "title": "ADT+",
+      "subtitle": "Security system interface application",
+      "appIcon": "aplus_icon",
+      "storeUrl": "https://apps.apple.com/us/app/adt/id1604464354",
+      "websiteUrl": "",
+      "isCurrent": true,
+      "startDate": "2019-12-01T00:00:00.000Z",
+      "endDate": null,
+      "type": "enterprise",
+      "platform": "phone",
+      "contributions": [
+        "librarydev",
+        "bluetooth",
+        "auth",
+        "unittest",
+        "mentor",
+        "pocdev",
+        "architecture",
+        "accessibility"
+      ],
+      "highlights": [
+        "built several key libraries",
+        "implemented new authentication system",
+        "filed several patents with the company",
+        "architected several features"
+      ]
+    },
+    {
+      "title": "Pulse",
+      "subtitle": "Security system interface application",
+      "appIcon": "pulse_icon",
+      "storeUrl": "https://apps.apple.com/us/app/adt-pulse/id355736423",
+      "websiteUrl": "",
+      "isCurrent": true,
+      "startDate": "2019-09-10T00:00:00.000Z",
+      "endDate": "2019-12-01T00:00:00.000Z",
+      "type": "enterprise",
+      "platform": "phone",
+      "contributions": [
+        "librarydev",
+        "auth",
+        "accessibility",
+        "unittest",
+        "development",
+        "localdb"
+      ],
+      "highlights": [
+        "refactored features for improved scalability",
+        "built and implemented key libraries"
+      ]
+    },
+    {
+      "title": "Blue",
+      "subtitle": "DIY security system interface application",
+      "appIcon": "blue_icon",
+      "storeUrl": "https://apps.apple.com/us/app/blue-by-adt/id453715089",
+      "websiteUrl": "",
+      "isCurrent": true,
+      "startDate": "2019-09-01T00:00:00.000Z",
+      "endDate": "2021-12-01T00:00:00.000Z",
+      "type": "enterprise",
+      "platform": "phone",
+      "contributions": [
+        "librarydev",
+        "bluetooth",
+        "auth",
+        "unittest",
+        "development",
+        "mentor",
+        "pocdev"
+      ],
+      "highlights": [
+        "mentored devs on design paradgims",
+        "worked with design team on rebranding"
+      ]
+    },
+    {
+      "title": "MyADT",
+      "subtitle": "account management application",
+      "appIcon": "myadt_icon",
+      "storeUrl": "https://apps.apple.com/us/app/myadt/id860107112",
+      "websiteUrl": "",
+      "isCurrent": true,
+      "startDate": "2019-09-10T00:00:00.000Z",
+      "endDate": "2019-12-01T00:00:00.000Z",
+      "type": "enterprise",
+      "platform": "phone",
+      "contributions": [
+        "auth",
+        "unittest",
+        "development"
+      ],
+      "highlights": [
+        "improved API integrations",
+        "integrated authentication library"
+      ]
+    },
+    {
+      "title": "Citi Mobile",
+      "subtitle": "Banking services and account management",
+      "appIcon": "citi_icon",
+      "storeUrl": "https://apps.apple.com/us/app/citi-mobile/id301724680",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2018-02-01T00:00:00.000Z",
+      "endDate": "2019-09-01T00:00:00.000Z",
+      "type": "enterprise",
+      "platform": "phone",
+      "contributions": [
+        "development",
+        "unittest",
+        "accessibility",
+        "pocdev"
+      ],
+      "highlights": [
+        "developed several PoCs for payment graphs",
+        "won award for unit testing coverage",
+        "implemented payments accessibility"
+      ]
+    },
+    {
+      "title": "5D",
+      "subtitle": "Recruiting and Networking",
+      "appIcon": "fived_icon",
+      "storeUrl": "",
+      "websiteUrl": "https://5d-imensions.com/",
+      "isCurrent": false,
+      "startDate": "2016-03-01T00:00:00.000Z",
+      "endDate": "2018-01-01T00:00:00.000Z",
+      "type": "enterprise",
+      "platform": "phone",
+      "contributions": [
+        "architecture",
+        "auth",
+        "development",
+        "librarydev",
+        "apidesign",
+        "unittest"
+      ],
+      "highlights": [
+        "designed app architecture",
+        "built and implemented libraries",
+        "designed and documented API"
+      ]
+    },
+    {
+      "title": "Clarkie Clock",
+      "subtitle": "Time learning game for ESL students",
+      "appIcon": "clark_icon",
+      "storeUrl": "",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2015-08-01T05:00:00.000Z",
+      "endDate": "2016-01-01T00:00:00.000Z",
+      "type": "freelance",
+      "platform": "tablet",
+      "contributions": [
+        "design",
+        "development",
+        "unittest",
+        "appstore"
+      ],
+      "highlights": [
+        "designed child-focused UI/UX",
+        "recorded and implemented audio",
+        "handled total development"
+      ]
+    },
+    {
+      "title": "5 Words a Day",
+      "subtitle": "Language learning for ESL students",
+      "appIcon": "fived_icon",
+      "storeUrl": "",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2015-01-01T00:00:00.000Z",
+      "endDate": "2015-08-01T00:00:00.000Z",
+      "type": "freelance",
+      "platform": "phone",
+      "contributions": [
+        "design",
+        "development",
+        "unittest",
+        "appstore",
+        "auth",
+        "clouddb"
+      ],
+      "highlights": [
+        "designed app",
+        "integrated authentication",
+        "implemented remote databases",
+        "added gamification"
+      ]
+    },
+    {
+      "title": "Pocket Traveler",
+      "subtitle": "Language learning for ESL students",
+      "appIcon": "pocket_icon",
+      "storeUrl": "",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2014-08-01T00:00:00.000Z",
+      "endDate": "2015-01-01T00:00:00.000Z",
+      "type": "freelance",
+      "platform": "phone",
+      "contributions": [
+        "design",
+        "development",
+        "unittest",
+        "appstore",
+        "localdb"
+      ],
+      "highlights": [
+        "included 3 apps in one",
+        "custom graphical animations",
+        "localized Japanese language"
+      ]
+    },
+    {
+      "title": "Toaster",
+      "subtitle": "Toast library built in SwiftUI",
+      "appIcon": "toaster_icon",
+      "storeUrl": "",
+      "websiteUrl": "https://github.com/glowcap/Toaster",
+      "isCurrent": true,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": null,
+      "type": "sidehustle",
+      "platform": "library",
+      "contributions": [
+        "design",
+        "development",
+        "unittest",
+        "accessibility"
+      ],
+      "highlights": [
+        "adhears to WCAG 2.1 guidelines",
+        "written in SwiftUI",
+        "available as Swift Package and Pod"
+      ]
+    },
+    {
+      "title": "DG Notify View",
+      "subtitle": "Customizable notification view",
+      "appIcon": "dgnotif_icon",
+      "storeUrl": "",
+      "websiteUrl": "https://github.com/glowcap/DGNotifyView",
+      "isCurrent": false,
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2018-01-01T00:00:00.000Z",
+      "type": "sidehustle",
+      "platform": "library",
+      "contributions": [
+        "design",
+        "development",
+        "unittest"
+      ],
+      "highlights": [
+        "fully customizable",
+        "earned Github Starstruck award"
+      ]
+    },
+    {
+      "title": "Lesson Recorder",
+      "subtitle": "Audio recorder for ESL lessons",
+      "appIcon": "lesson_icon",
+      "storeUrl": "",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2015-03-01T00:00:00.000Z",
+      "endDate": "2015-01-01T00:00:00.000Z",
+      "type": "sidehustle",
+      "platform": "phone",
+      "contributions": [
+        "design",
+        "development",
+        "unittest",
+        "appstore",
+        "localdb"
+      ],
+      "highlights": [
+        "designed UI/UX",
+        "core data for local database"
+      ]
+    },
+    {
+      "title": "How Many Fingers",
+      "subtitle": "Number guessing game",
+      "appIcon": "fived_icon",
+      "storeUrl": "",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2014-06-02T00:00:00.000Z",
+      "endDate": "2016-01-01T00:00:00.000Z",
+      "type": "justforfun",
+      "platform": "phone",
+      "contributions": [
+        "design",
+        "development",
+        "pocdev",
+        "appstore"
+      ],
+      "highlights": [
+        "PoC for other app features",
+        "over 10k downloads in the AppStore"
+      ]
+    },
+    {
+      "title": "Waking Up with Jon Batiste",
+      "subtitle": "Alarm clock app",
+      "appIcon": "jonb_icon",
+      "storeUrl": "",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2017-08-01T00:00:00.000Z",
+      "endDate": "2017-08-13T00:00:00.000Z",
+      "type": "justforfun",
+      "platform": "phone",
+      "contributions": [      
+        "design",
+        "development",
+        "localdb"
+    ],
+      "highlights": [
+        "designed UI/UX",
+        "rapid development by request"
+      ]
+    },
+    {
+      "title": "3D Touch Tester",
+      "subtitle": "iPhone 6 touch tester",
+      "appIcon": "fived_icon",
+      "storeUrl": "",
+      "websiteUrl": "",
+      "isCurrent": false,
+      "startDate": "2015-10-21T00:00:00.000Z",
+      "endDate": "2015-10-31T00:00:00.000Z",
+      "type": "justforfun",
+      "platform": "phone",
+      "contributions": [
+        "design",
+        "development"
+      ],
+      "highlights": [
+        "leveraged touch pressure library",
+        "custom UI animations"
+      ]
+    }
+  ]
+}

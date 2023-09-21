@@ -1,0 +1,235 @@
+{
+  "technologies": [
+    {
+      "category": "language",
+      "technology": "swift",
+      "growthDirection": "stagnant",
+      "change": 56.3,
+      "platforms": [
+        "mobile",
+        "tv",
+        "watch"
+      ]
+    },
+    {
+      "category": "language",
+      "technology": "objc",
+      "growthDirection": "down",
+      "change": 16.2,
+      "platforms": [
+        "mobile"
+      ]
+    },
+    {
+      "category": "language",
+      "technology": "dart",
+      "growthDirection": "up",
+      "change": 27.5,
+      "platforms": [
+        "hybrid",
+        "web"
+      ]
+    },
+    {
+      "category": "uicomposition",
+      "technology": "swiftui",
+      "growthDirection": "up",
+      "change": 43.1,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv"
+      ]
+    },
+    {
+      "category": "uicomposition",
+      "technology": "snapkit",
+      "growthDirection": "down",
+      "change": 28.6,
+      "platforms": [
+        "mobile",
+        "tv"
+      ]
+    },
+    {
+      "category": "uicomposition",
+      "technology": "flutter",
+      "growthDirection": "up",
+      "change": 22.3,
+      "platforms": [
+        "hybrid",
+        "web"
+      ]
+    },
+    {
+      "category": "uicomposition",
+      "technology": "autolayout",
+      "growthDirection": "down",
+      "change": 6,
+      "platforms": [
+        "mobile",
+        "watch"
+      ]
+    },
+    {
+      "category": "dependency",
+      "technology": "swiftpackage",
+      "growthDirection": "up",
+      "change": 68.7,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv"
+      ]
+    },
+    {
+      "category": "dependency",
+      "technology": "dartpackage",
+      "growthDirection": "up",
+      "change": 15.8,
+      "platforms": [
+        "hybrid",
+        "web"
+      ]
+    },
+    {
+      "category": "dependency",
+      "technology": "cocoapods",
+      "growthDirection": "down",
+      "change": 13.3,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv"
+      ]
+    },
+    {
+      "category": "dependency",
+      "technology": "carthage",
+      "growthDirection": "down",
+      "change": 2.2,
+      "platforms": [
+        "mobile"
+      ]
+    },
+    {
+      "category": "dataauth",
+      "technology": "supabase",
+      "growthDirection": "up",
+      "change": 32.1,
+      "platforms": [
+        "mobile",
+        "hybrid",
+        "web",
+        "watch"
+      ]
+    },
+    {
+      "category": "dataauth",
+      "technology": "firebase",
+      "growthDirection": "stagnant",
+      "change": 52,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv"
+      ]
+    },
+    {
+      "category": "dataauth",
+      "technology": "auth0",
+      "growthDirection": "down",
+      "change": 15.9,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv"
+      ]
+    },
+    {
+      "category": "versioncontrol",
+      "technology": "git",
+      "growthDirection": "stagnant",
+      "change": 100,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv",
+        "web",
+        "hybrid"
+      ]
+    },
+    {
+      "category": "versioncontrol",
+      "technology": "github",
+      "growthDirection": "up",
+      "change": 55.9,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv",
+        "web",
+        "hybrid"
+      ]
+    },
+    {
+      "category": "versioncontrol",
+      "technology": "bitbucket",
+      "growthDirection": "down",
+      "change": 44.1,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv"
+      ]
+    },
+    {
+      "category": "design",
+      "technology": "sketch",
+      "growthDirection": "down",
+      "change": 34.2,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv",
+        "hybrid",
+        "web"
+      ]
+    },
+    {
+      "category": "design",
+      "technology": "figma",
+      "growthDirection": "up",
+      "change": 36.5,
+      "platforms": [
+        "mobile",
+        "watch",
+        "tv",
+        "hybrid",
+        "web"
+      ]
+    },
+    {
+      "category": "design",
+      "technology": "lottie",
+      "growthDirection": "stagnant",
+      "change": 10.8,
+      "platforms": [
+        "mobile",
+        "hybrid",
+        "web"
+      ]
+    },
+    {
+      "category": "design",
+      "technology": "rive",
+      "growthDirection": "up",
+      "change": 10.8,
+      "platforms": [
+        "mobile",
+        "hybrid",
+        "web"
+      ]
+    }
+  ]
+}

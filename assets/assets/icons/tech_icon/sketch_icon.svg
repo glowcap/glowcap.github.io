@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sketch_icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tech-Icons" transform="translate(-6.000000, -133.000000)">
+            <g id="sketch_icon" transform="translate(6.000000, 133.000000)">
+                <g id="objc_icon">
+                    <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                </g>
+                <g id="sketch-logo" transform="translate(4.000000, 7.000000)" fill-rule="nonzero">
+                    <polygon id="Path" fill="#FDB300" points="11.9999812 1.875e-05 5.2363875 0.71514375 -1.875e-05 7.744425 11.9999812 21.7183313 23.9999812 7.744425 18.7636688 0.71514375"></polygon>
+                    <polygon id="Path" fill="#EB6C00" points="0 7.7444625 12 21.718275 4.8605625 7.7444625"></polygon>
+                    <polygon id="Path" fill="#EB6C00" points="19.1393719 7.7444625 12.0000281 21.718275 23.9999344 7.7444625"></polygon>
+                    <polygon id="Path" fill="#FDAD00" points="4.86059062 7.7444625 12.0000281 21.718275 19.1394656 7.7444625"></polygon>
+                    <polygon id="Path" fill="#FDD231" points="5.2363875 0.71514375 4.86054375 7.744425 11.9999812 1.875e-05"></polygon>
+                    <polygon id="Path" fill="#FDD231" points="19.1393719 7.7444625 18.7636219 0.7150875 12.0000281 5.625e-05"></polygon>
+                    <polygon id="Path" fill="#FDAD00" points="19.1394563 7.7444625 23.999925 7.7444625 18.7636125 0.7150875"></polygon>
+                    <polygon id="Path" fill="#FDAD00" points="0 7.7444625 4.8605625 7.7444625 5.23640625 0.7150875"></polygon>
+                    <polygon id="Path" fill="#FEEEB7" points="11.9999812 1.875e-05 4.86054375 7.744425 19.1394187 7.744425"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

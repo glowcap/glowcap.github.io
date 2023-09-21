@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>firebase_icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tech-Icons" transform="translate(-40.000000, -237.000000)">
+            <g id="firebase_icon" transform="translate(40.000000, 237.000000)">
+                <g id="objc_icon">
+                    <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                </g>
+                <g id="firebase-icon" transform="translate(7.000000, 3.000000)" fill-rule="nonzero">
+                    <path d="M12.496,9.2464 L9.9336,11.6304 L7.556,6.8344 L8.7864,4.076 C9.1064,3.516 9.6056,3.5224 9.9176,4.076 L12.496,9.2464 Z" id="Path" fill="#FFA000"></path>
+                    <polygon id="Path" fill="#F57F17" points="7.556 6.8344 9.9336 11.6304 0.3576 20.5384"></polygon>
+                    <path d="M15.2984,5.6024 C15.756,5.1624 16.2296,5.3128 16.3504,5.936 L18.8432,20.42 L10.5808,25.38 C10.2928,25.54 9.5248,25.6088 9.5248,25.6088 C9.5248,25.6088 8.8256,25.5256 8.5592,25.3688 L0.3576,20.5384 L15.2984,5.6024 Z" id="Path" fill="#FFCA28"></path>
+                    <path d="M7.556,6.8344 L0.3584,20.5384 L3.564,0.5104 C3.6824,-0.1136 4.0376,-0.1736 4.3544,0.3768 L7.556,6.8344 Z" id="Path" fill="#FFA000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

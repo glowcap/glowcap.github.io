@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>objc_icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tech-Icons" transform="translate(-40.000000, -24.000000)">
+            <g id="objc_icon" transform="translate(40.000000, 24.000000)">
+                <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                <path d="M12.2405063,21.2898734 L12.2405063,19.8974684 L6.40632911,16.8341772 L12.2405063,13.7708861 L12.2405063,12.378481 L5,16.221519 L5,17.4468354 L12.2405063,21.2898734 Z M14.7329114,21.8607595 L18.5481013,11 L17.2670886,11 L13.4518987,21.8607595 L14.7329114,21.8607595 Z M19.7594937,21.2898734 L27,17.4468354 L27,16.221519 L19.7594937,12.378481 L19.7594937,13.7708861 L25.5936709,16.8341772 L19.7594937,19.8974684 L19.7594937,21.2898734 Z" id="objc" fill="#3D63C6" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

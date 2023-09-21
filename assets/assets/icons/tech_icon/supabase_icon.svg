@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>supabase_icon</title>
+    <defs>
+        <linearGradient x1="20.8617445%" y1="20.6868812%" x2="63.4256086%" y2="44.0710077%" id="linearGradient-1">
+            <stop stop-color="#249361" offset="0%"></stop>
+            <stop stop-color="#3ECF8E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.99116498%" y1="-13.1584008%" x2="21.4025077%" y2="34.708062%" id="linearGradient-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tech-Icons" transform="translate(-6.000000, -238.000000)">
+            <g id="supabase_icon" transform="translate(6.000000, 238.000000)">
+                <g id="objc_icon">
+                    <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                </g>
+                <g id="supabase-icon" transform="translate(4.000000, 4.000000)" fill-rule="nonzero">
+                    <path d="M13.5308177,23.4231504 C12.9234903,24.1879646 11.6920779,23.7689204 11.6774442,22.792354 L11.4634619,8.50889204 L21.067646,8.50889204 C22.8072212,8.50889204 23.7774159,10.5181168 22.6957168,11.8805097 L13.5308177,23.4231504 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                    <path d="M13.5308177,23.4231504 C12.9234903,24.1879646 11.6920779,23.7689204 11.6774442,22.792354 L11.4634619,8.50889204 L21.067646,8.50889204 C22.8072212,8.50889204 23.7774159,10.5181168 22.6957168,11.8805097 L13.5308177,23.4231504 Z" id="Path" fill-opacity="0.2" fill="url(#linearGradient-2)"></path>
+                    <path d="M9.62484956,0.439864779 C10.232177,-0.325034336 11.4636106,0.094075115 11.4782442,1.07065487 L11.5720142,15.3540956 L2.08802761,15.3540956 C0.348399292,15.3540956 -0.621823009,13.3448708 0.459929204,11.9824779 L9.62484956,0.439864779 Z" id="Path" fill="#3ECF8E"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

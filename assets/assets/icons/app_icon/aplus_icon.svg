@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>aplus_icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Icons" transform="translate(-153.000000, -14.000000)">
+            <g id="aplus_icon" transform="translate(153.000000, 14.000000)">
+                <circle id="Oval" cx="30" cy="30" r="30"></circle>
+                <circle id="Oval" fill="#0061AC" cx="30" cy="30" r="25"></circle>
+                <path d="M37.0210284,13 L47,22.9016316 L47,37.0418055 L37.0194092,47 L22.7912823,47 L13,37.0472462 L13,22.8961846 L22.789657,13 L37.0210284,13 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M30.0358377,19 L40,38 L35.2940937,38 L34.224,36 L25.882,36 L24.8387095,38 L20,38 L30.0358377,19 Z M30,28.1084689 L27.969,32 L32.083,32 L30,28.1084689 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <text id="+" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" fill="#FFFFFF">
+                    <tspan x="29" y="32">+</tspan>
+                </text>
+                <polygon id="+" fill="#0061AC" fill-rule="nonzero" points="35.56 30.304 35.56 29.5201898 33.4273129 25.456 30.632 25.456 30.632 26.992 33.864 26.992 33.864 30.304"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

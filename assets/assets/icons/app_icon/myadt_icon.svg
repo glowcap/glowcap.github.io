@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>myadt_icon</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#002C4D" offset="0%"></stop>
+            <stop stop-color="#005CA3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Icons" transform="translate(-221.000000, -14.000000)">
+            <g id="myadt_icon" transform="translate(221.000000, 14.000000)">
+                <circle id="Oval" cx="30" cy="30" r="30"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="30" cy="30" r="25"></circle>
+                <path d="M37.0210284,13 L47,22.9016316 L47,37.0418055 L37.0194092,47 L22.7912823,47 L13,37.0472462 L13,22.8961846 L22.789657,13 L37.0210284,13 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M22.024,36 L22.024,28.384 L25.432,36 L26.696,36 L30.088,28.384 L30.088,36 L31.912,36 L31.912,24.88 L29.96,24.88 L26.072,33.6 L22.168,24.88 L20.2,24.88 L20.2,36 L22.024,36 Z M36.84,40.144 L42.248,27.184 L40.36,27.184 L37.784,33.904 L35.304,27.184 L33.272,27.184 L36.744,35.856 L34.952,40.144 L36.84,40.144 Z" id="My" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

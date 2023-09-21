@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flutter_icon</title>
+    <defs>
+        <path d="M17.239877,9.8584 L11.497359,15.6029718 L17.239877,21.3475437 L10.6778795,21.3475437 L4.93330767,15.6029718 L10.6778795,9.8584 L17.239877,9.8584 Z M10.6778795,0.0143768333 L0.012323,10.6799333 L3.29434867,13.961959 L17.239877,0.0143768333 L10.6778795,0.0143768333 Z" id="path-1"></path>
+        <path d="M17.239877,9.8584 L11.497359,15.6029718 L17.239877,21.3475437 L10.6778795,21.3475437 L4.93330767,15.6029718 L10.6778795,9.8584 L17.239877,9.8584 Z M10.6778795,0.0143768333 L0.012323,10.6799333 L3.29434867,13.961959 L17.239877,0.0143768333 L10.6778795,0.0143768333 Z" id="path-3"></path>
+        <path d="M17.239877,9.8584 L11.497359,15.6029718 L17.239877,21.3475437 L10.6778795,21.3475437 L4.93330767,15.6029718 L10.6778795,9.8584 L17.239877,9.8584 Z M10.6778795,0.0143768333 L0.012323,10.6799333 L3.29434867,13.961959 L17.239877,0.0143768333 L10.6778795,0.0143768333 Z" id="path-5"></path>
+        <path d="M17.239877,9.8584 L11.497359,15.6029718 L17.239877,21.3475437 L10.6778795,21.3475437 L4.93330767,15.6029718 L10.6778795,9.8584 L17.239877,9.8584 Z M10.6778795,0.0143768333 L0.012323,10.6799333 L3.29434867,13.961959 L17.239877,0.0143768333 L10.6778795,0.0143768333 Z" id="path-7"></path>
+        <linearGradient x1="19.6772152%" y1="81.5050868%" x2="69.8945148%" y2="47.6454899%" id="linearGradient-9">
+            <stop stop-color="#1A237E" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#1A237E" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M17.239877,9.8584 L11.497359,15.6029718 L17.239877,21.3475437 L10.6778795,21.3475437 L4.93330767,15.6029718 L10.6778795,9.8584 L17.239877,9.8584 Z M10.6778795,0.0143768333 L0.012323,10.6799333 L3.29434867,13.961959 L17.239877,0.0143768333 L10.6778795,0.0143768333 Z" id="path-10"></path>
+        <radialGradient cx="2.80934072%" cy="6.81570713%" fx="2.80934072%" fy="6.81570713%" r="151.492877%" gradientTransform="translate(0.028093,0.068157),scale(1.000000,0.807548),translate(-0.028093,-0.068157)" id="radialGradient-12">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tech-Icons" transform="translate(-153.000000, -58.000000)">
+            <g id="flutter_icon" transform="translate(153.000000, 58.000000)">
+                <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                <g id="flutterio-icon" transform="translate(5.000000, 5.000000)">
+                    <g id="Clipped" transform="translate(0.320994, 0.318967)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="A"></g>
+                        <polygon id="Path" fill="#39CEFD" fill-rule="nonzero" mask="url(#mask-2)" points="4.9353615 15.6029718 8.21533333 18.8849975 17.239877 9.8584 10.6778795 9.8584"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(0.320994, 0.318967)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="C"></g>
+                        <polygon id="Path" fill="#39CEFD" fill-rule="nonzero" mask="url(#mask-4)" points="10.6778795 0.0143768333 17.239877 0.0143768333 3.29434867 13.961959 0.012323 10.6799333"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(0.320994, 0.318967)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="E"></g>
+                        <polygon id="Path" fill="#03569B" fill-rule="nonzero" mask="url(#mask-6)" points="8.21533333 18.8849975 10.6778795 21.3454898 17.239877 21.3454898 11.497359 15.6029718"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(0.320994, 0.318967)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="G"></g>
+                        <polygon id="Path" fill="url(#linearGradient-9)" fill-rule="nonzero" mask="url(#mask-8)" points="13.0829183 17.1988003 11.497359 15.6029718 8.21533333 18.8849975"></polygon>
+                    </g>
+                    <g id="Clipped" transform="translate(0.320994, 0.318967)">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <g id="J"></g>
+                        <polygon id="Path" fill="#16B9FD" fill-rule="nonzero" mask="url(#mask-11)" points="4.93499181 15.6018422 8.21709963 12.3197139 11.4994128 15.6018422 8.21709963 18.8839706"></polygon>
+                    </g>
+                    <path d="M17.560871,10.1773667 L11.818353,15.9219385 L17.560871,21.6665103 L10.9988735,21.6665103 L5.25430167,15.9219385 L10.9988735,10.1773667 L17.560871,10.1773667 Z M10.9988735,0.3333435 L0.333317,10.9989 L3.61534267,14.2809257 L17.560871,0.3333435 L10.9988735,0.3333435 Z" id="Shape" fill="url(#radialGradient-12)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>autolayout_icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tech-Icons" transform="translate(-152.000000, -24.000000)">
+            <g id="autolayout_icon" transform="translate(152.000000, 24.000000)">
+                <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                <g id="AutoLay_icon" transform="translate(8.000000, 8.000000)" fill="#75AEFF">
+                    <rect id="Rectangle" x="0" y="14" width="16" height="2"></rect>
+                    <rect id="Rectangle" x="7" y="4" width="2" height="3"></rect>
+                    <rect id="Rectangle" x="7" y="9" width="2" height="3"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="16" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

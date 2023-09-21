@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>citi_icon</title>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+        <rect id="path-3" x="0" y="0" width="39.375" height="11.875"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Icons" transform="translate(-17.000000, -14.000000)">
+            <g id="citi_icon" transform="translate(17.000000, 14.000000)">
+                <circle id="Oval" cx="30" cy="30" r="30"></circle>
+                <g id="Oval-2" transform="translate(5.000000, 5.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Oval" fill="#076BAD" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill="#46B7E7" mask="url(#mask-2)" x="0" y="39.375" width="36.25" height="13.125"></rect>
+                    <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" x="36.25" y="39.375" width="36.25" height="13.125"></rect>
+                </g>
+                <g id="arch" transform="translate(10.625000, 10.625000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Rectangle"></g>
+                    <ellipse id="Oval" stroke="#FF0107" stroke-width="4.375" mask="url(#mask-4)" cx="19.6875" cy="17.5" rx="15" ry="12.1875"></ellipse>
+                </g>
+                <path d="M34.57,37.75 L34.57,35.6125 L32.995,35.6125 C32.47,35.6125 32.09875,35.51125 31.88125,35.30875 C31.66375,35.10625 31.555,34.7725 31.555,34.3075 L31.555,34.3075 L31.555,27.445 L34.57,27.445 L34.57,25.3525 L31.555,25.3525 L31.555,22.27 L28.9675,22.27 L28.9675,25.3525 L27.505,25.3525 L27.505,27.445 L28.9675,27.445 L28.9675,34.3075 C28.9675,35.5225 29.275,36.4 29.89,36.94 C30.505,37.48 31.39,37.75 32.545,37.75 L32.545,37.75 L34.57,37.75 Z" id="t" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

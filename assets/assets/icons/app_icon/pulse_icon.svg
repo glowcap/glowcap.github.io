@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pulse_icon</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#27A3FB" offset="0%"></stop>
+            <stop stop-color="#0774D7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Icons" transform="translate(-85.000000, -14.000000)">
+            <g id="pulse_icon" transform="translate(85.000000, 14.000000)">
+                <circle id="Oval" cx="30" cy="30" r="30"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="30" cy="30" r="25"></circle>
+                <path d="M37.0210284,13 L47,22.9016316 L47,37.0418055 L37.0194092,47 L22.7912823,47 L13,37.0472462 L13,22.8961846 L22.789657,13 L37.0210284,13 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M30.0358377,19 L40,38 L35.2940937,38 L34.224,36 L25.882,36 L24.8387095,38 L20,38 L30.0358377,19 Z M30,28.1084689 L27.969,32 L32.083,32 L30,28.1084689 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
